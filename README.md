@@ -4,13 +4,13 @@
 
 # Jascha Wohlkinger
 
-### Senior Technical Artist | Character Technology & R&D
+### Expert Technical Artist | Character Technology & R&D
 
 I specialize in character technology for real-time production, combining **rigging, deformation systems, pipeline engineering, and technical R&D**.
 
 My work focuses on building scalable character solutions, developing production-ready tools, and exploring new approaches to animation and deformation through machine learning.
 
-[Connect on LinkedIn →](https://www.linkedin.com/in/jascha-wohlkinger/) &nbsp; · &nbsp; [Explore my repositories →](https://github.com/JaschaW?tab=repositories)
+[Connect on LinkedIn →](https://www.linkedin.com/in/jascha-wohlkinger/)
 
 ## Areas of expertise
 
