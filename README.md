@@ -10,7 +10,7 @@
 
 I develop body and facial rigging, deformation systems, and runtime character workflows, connecting Maya tooling with Unreal Engine production.
 
-On *Senua’s Saga: Hellblade II*, I was the sole technical artist responsible for the character pipeline, including body and facial rigging across the cast. My featured reel highlights the work developed for Senua.
+On *Senua’s Saga: Hellblade II*, I was the sole technical artist responsible for the character pipeline, including body and facial rigging across the cast. I was fortunate to work alongside an amazing team at Ninja Theory, and our close collaboration was essential to the character work we delivered. My featured reel highlights the work developed for Senua.
 
 I have also been a member of the [mGear development team](https://github.com/mgear-dev/mgear), contributing to the open-source rigging and animation framework for Autodesk Maya.
 
