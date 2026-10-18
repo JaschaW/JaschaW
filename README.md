@@ -14,12 +14,12 @@ My work focuses on building scalable character solutions, developing production-
 
 ## Areas of expertise
 
-- **Character technology** — character rigging and deformation systems.
-- **Tool development** — production tooling with Python and C++.
-- **DCC & real-time** — Autodesk Maya and Unreal Engine.
-- **Pipeline engineering** — character pipeline architecture and automation.
-- **Research & development** — machine learning for character deformation.
-- **Technical leadership** — cross-disciplinary collaboration.
+- **Character technology**: character rigging and deformation systems.
+- **Tool development**: production tooling with Python and C++.
+- **DCC & real-time**: Autodesk Maya and Unreal Engine.
+- **Pipeline engineering**: character pipeline architecture and automation.
+- **Research & development**: machine learning for character deformation.
+- **Technical leadership**: cross-disciplinary collaboration.
 
 ---
 
