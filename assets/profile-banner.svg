@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Jascha — Code for creative workflows</title>
+  <desc id="desc">A dark navy banner with mint typography and an abstract node graph. Maya tools, rigging, and deformation.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#223346" stroke-width="1" opacity=".36"/></pattern>
+    <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#101C2A"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="edge" x1="740" y1="140" x2="1120" y2="220" gradientUnits="userSpaceOnUse"><stop stop-color="#71DFBC"/><stop offset="1" stop-color="#5E8AD3"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="url(#background)"/>
+  <rect x="666" width="534" height="320" fill="url(#grid)"/>
+  <rect x="48" y="43" width="4" height="17" rx="2" fill="#71DFBC"/>
+  <text x="66" y="57" fill="#A6B9CC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">JASCHA WOHLKINGER</text>
+  <text x="48" y="127" fill="#F2F6FC" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.7">Code for</text>
+  <text x="48" y="184" fill="#83E2C3" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.7">creative workflows.</text>
+  <text x="50" y="245" fill="#A6B9CC" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".5">MAYA TOOLS · RIGGING · DEFORMATION</text>
+  <g stroke="url(#edge)" stroke-width="2">
+    <path d="M752 100H804C842 100 800 166 842 166H890"/>
+    <path d="M752 226H804C842 226 800 166 842 166H890"/>
+    <path d="M954 166H990C1026 166 992 100 1030 100H1084"/>
+    <path d="M954 166H990C1026 166 992 226 1030 226H1084"/>
+  </g>
+  <g fill="#132437" stroke="#37516A">
+    <rect x="690" y="76" width="92" height="48" rx="9"/>
+    <rect x="690" y="202" width="92" height="48" rx="9"/>
+    <rect x="866" y="130" width="112" height="72" rx="11" stroke="#71DFBC"/>
+    <rect x="1060" y="76" width="92" height="48" rx="9"/>
+    <rect x="1060" y="202" width="92" height="48" rx="9"/>
+  </g>
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12" text-anchor="middle" fill="#BDD0E2">
+    <text x="736" y="105">INPUT</text>
+    <text x="736" y="231">CONTROL</text>
+    <text x="1106" y="105">RIG</text>
+    <text x="1106" y="231">MESH</text>
+  </g>
+  <g stroke="#83E2C3" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m908 154-11 12 11 12m28-24 11 12-11 12m-17 4 7-32"/></g>
+  <g fill="#83E2C3"><circle cx="782" cy="100" r="3.5"/><circle cx="782" cy="226" r="3.5"/><circle cx="866" cy="166" r="3.5"/><circle cx="978" cy="166" r="3.5"/><circle cx="1060" cy="100" r="3.5"/><circle cx="1060" cy="226" r="3.5"/></g>
+  <text x="1148" y="286" text-anchor="end" fill="#6F859D" font-family="monospace" font-size="11" letter-spacing="1.5">IDEA → TOOL → WORKFLOW</text>
+</svg>
