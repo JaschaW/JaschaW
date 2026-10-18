@@ -20,13 +20,13 @@ My R&D explores machine-learning-assisted deformation, ONNX inference in Maya, a
 
 ## Featured work
 
-### [Senua demo reel](https://vimeo.com/1079277404)
+### Senua demo reel
 
 Character rigging and deformation work developed for Senua during the production of *Senua’s Saga: Hellblade II*.
 
 [Watch the Senua reel →](https://vimeo.com/1079277404)
 
-### [Machine learning for character deformation](https://www.linkedin.com/pulse/ml-project-dev-dairies-1-jascha-wohlkinger-3uvof)
+### Machine learning for character deformation
 
 A walkthrough of the data-generation and training tools behind my character deformation research.
 
