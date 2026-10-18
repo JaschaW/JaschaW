@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none" role="img" aria-labelledby="title desc">
-  <title id="title">Jascha — Code for creative workflows</title>
-  <desc id="desc">A dark navy banner with mint typography and an abstract node graph. Maya tools, rigging, and deformation.</desc>
+  <title id="title">Jascha Wohlkinger — Character technology. Built for production.</title>
+  <desc id="desc">A dark navy banner with mint typography and an abstract node graph. Character technology for real-time production.</desc>
   <defs>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#223346" stroke-width="1" opacity=".36"/></pattern>
     <linearGradient id="background" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse"><stop stop-color="#101C2A"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
@@ -10,9 +10,9 @@
   <rect x="666" width="534" height="320" fill="url(#grid)"/>
   <rect x="48" y="43" width="4" height="17" rx="2" fill="#71DFBC"/>
   <text x="66" y="57" fill="#A6B9CC" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="3">JASCHA WOHLKINGER</text>
-  <text x="48" y="127" fill="#F2F6FC" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.7">Code for</text>
-  <text x="48" y="184" fill="#83E2C3" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.7">creative workflows.</text>
-  <text x="50" y="245" fill="#A6B9CC" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".5">MAYA TOOLS · RIGGING · DEFORMATION</text>
+  <text x="48" y="127" fill="#F2F6FC" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="-1.7">Character technology.</text>
+  <text x="48" y="184" fill="#83E2C3" font-family="Arial, Helvetica, sans-serif" font-size="49" font-weight="700" letter-spacing="-1.7">Built for production.</text>
+  <text x="50" y="245" fill="#A6B9CC" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing=".5">RIGGING · REAL-TIME · RESEARCH &amp; DEVELOPMENT</text>
   <g stroke="url(#edge)" stroke-width="2">
     <path d="M752 100H804C842 100 800 166 842 166H890"/>
     <path d="M752 226H804C842 226 800 166 842 166H890"/>
