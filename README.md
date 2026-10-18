@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Jascha Wohlkinger — Character technology. Built for production." width="100%" />
+  <img src="./assets/hellblade-ii-banner.png" alt="Senua from Senua’s Saga: Hellblade II" width="100%" />
 </p>
 
 # Jascha Wohlkinger
