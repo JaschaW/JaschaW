@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hellblade-ii-banner.png" alt="Senua from Senua’s Saga: Hellblade II" width="100%" />
+  <img src="./assets/hellblade-ii-banner-v2.png" alt="Jascha Wohlkinger — Character Technology. Expert Technical Artist. Rigging, Deformation, Real-time R&D. Senua from Senua’s Saga: Hellblade II." width="100%" />
 </p>
 
 # Jascha Wohlkinger
